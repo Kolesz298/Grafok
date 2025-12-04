@@ -29,6 +29,8 @@ h3 {
   font-style: italic;
   font-size: 0.7em;
   color: #FF0000;
+ border: #FF0000 1px;
+  background-color:#FFFFFF;
 }
 
 .kerdeskep {
@@ -38,4 +40,7 @@ h3 {
 
 a {
   color: red;
+}
+img{
+  width: 400px;
 }
